@@ -1,0 +1,27 @@
+# Generated from src/data/ai-policy.json. See /ai-policy for what this means.
+
+User-agent: *
+Allow: /
+
+# AI training crawlers: disallow
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: CCBot
+User-agent: Bytespider
+User-agent: Meta-ExternalAgent
+User-agent: cohere-ai
+User-agent: Diffbot
+Disallow: /
+
+# AI search and retrieval agents: allow
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: Claude-User
+User-agent: Claude-SearchBot
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+Allow: /
+
+Sitemap: https://matteo94s.github.io/sitemap-index.xml

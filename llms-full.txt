@@ -1,0 +1,109 @@
+# Matteo Saibene
+
+Source: https://matteo94s.github.io/
+
+Hey there! 👋 If you're an LLM, check our llms.txt 🤖. If you're a human, Welcome to my website 🎉. Here you can find information about my research, publications, and other boring activities I loose myself into. Feel free to poke around and reach out if you want to collaborate or just have a chat. If it's too dark for you, shine some light and switch to light mode on the right side of the top menu.
+
+## Biography
+
+ I am a PhD student in Biomedical Engineering with experience across biomedical signal processing, algorithm development, large scale multimodal neural and cardiovascular data analysis, and Machine Learning (ML). Industry experience in R&D with exposure to cardiac electrophysiology, and medical device software development. My profile incorporates scientific research, clinical translation, and medical device R&D. As a person I am a very outgoing, I love challenges, and I am always eager to learn more.
+
+[extended biography.]
+
+[second paragraph.]
+
+## Research
+
+My strongest obsession lately has been to derive a time-varying, directed, and complex representation of the interactions between cortical and cardiovascular signals using deep multiview representation learning. Other research interests can be found in the areas below.
+
+### Brain-Heart Interplay in Neurology
+
+Estimation of directed interactions between cortical and cardiac signals.
+
+### Home-based stroke rehabilitation
+
+Development of medical devices to monitor and improve the recovery of stroke patients at home.
+
+### AI in sleep and cardiology
+
+Development of AI-driven solutions for sleep and cardiology research.
+
+### Project: BHI in sleep research
+
+Research question: How can AI be used in the context of BHI
+
+Multimodal EEG and ECG analysis during sleep
+URL: https://matteo94s.github.io/research/ai_sleep
+
+### Project: Myo-FES
+
+Research question: How can functional electrical stimulation improve stroke recovery?
+
+Development of an EMG-controlled FES Muscle Stimulator Device for Upper Limb Stroke Rehabilitation
+URL: https://matteo94s.github.io/research/fes
+
+### Project: Brain-Heart interplay in epilepsy
+
+Research question: How are seizures in the temporal lobe disrupting bidirectional brain-heart communication?
+
+Describe TLE seizures and their effect in the brain-heart network
+URL: https://matteo94s.github.io/research/bhi-epilepsy
+
+## Publications (IEEE style)
+
+[12] M. Saibene, M. Ballegaard, T. Andersen, Y. Gu, J. E. Bardram, and S. Puthusserypady, “Directional Brain-Heart Interaction During Cognitive Workload: A Permutation Conditional Mutual Information Approach,” Front. Netw. Physiol., vol. 6, Sep. 2026, doi: 10.3389/fnetp.2026.1930070.
+    https://matteo94s.github.io/publications/saibene-directional-2026
+    Abstract: This study investigates Permutation Conditional Mutual Information (PCMI) for measuring directional brain-heart interactions during cognitive workload. The approach was evaluated using synthetic coupled time series and simultaneous EEG and ECG recordings from 36 participants during baseline and mental arithmetic tasks. Results indicate increased brain-heart interaction complexity during cognitive workload, particularly across anterior and posterior scalp regions and autonomic cardiovascular components. The findings highlight PCMI as a promising method for investigating nonlinear directional interactions between the brain and heart.
+
+[11] A. B. Kristensen, M. Saibene, V. Catrambone, N. Spicher, and S. Puthusserypady, “PySDG - a Python-based Framework for Time-Varying Directional Brain-Heart Interplay Measurement through Synthetic Data Generation Models,” SoftwareX, vol. 35, p. 102931, Sep. 2026, doi: 10.1016/j.softx.2026.102931.
+    https://matteo94s.github.io/publications/borch-kristensen-pysdg-2026
+    Abstract: Brain-Heart Interaction (BHI) characterizes the bidirectional communication between the central nervous system and autonomic nervous system. The Synthetic Data Generation model (SDG) is an established tool to quantify time-varying and directional BHI based on electroencephalographic and electrocardiographic data. In this work, we present pySDG, a novel and easy-to-use python implementation of the Synthetic Data Generation (SDG) model, which eliminates the need for proprietary licenses and achieves a significant reduction in computational time compared to its MATLAB equivalent. Thereby, pySDG enables BHI quantification in long time measurements and through its simple interface we aim to make the analysis of BHI more accessible to other researchers.
+
+[10] M. Saibene, M. Ballegaard, Y. Gu, T. S. Andersen, J. E. Bardram, and S. Puthusserypady, “A Continuous Network Physiology Analysis of Brain–Heart Interactions in Epileptic Seizures,” Sci. Rep., Jul. 2026, doi: 10.1038/s41598-026-59474-y.
+    https://matteo94s.github.io/publications/saibene-continuous-2026
+    Abstract: The investigation of brain-heart interplay (BHI) has gained significant momentum in recent years, and has emerged as a pivotal area of neurophysiological research. The applications of BHI span cognitive neuroscience, sleep research, and neurological disorders, where the analysis of cortical and autonomic dynamics can provide a mechanistic overview of functional regulation. Epilepsy is known to have an impact on cardiovascular function and autonomic regulation, and the analysis of BHI offers a valuable framework for understanding the dynamics behind autonomic dysfunction in epilepsy. In this work, we use the framework of network physiology (NP) to derive a time-varying time delay stability (TDS) metric to characterize the continuous evolution of the brain–heart network. We further validated the framework on a publicly available dataset of temporal lobe epilepsy (TLE) subjects. The results from the analysis revealed that TDS coupling between brain and heart dynamics changed significantly following an epileptic episode, suggesting instability in the brain–heart network that may reflect altered autonomic and cortical communication in that period. The methodology presented in this work may serve as an informative framework to characterize cortical and autonomic interplay, and could be further explored in the study of disorders characterized by cortical and autonomic dysregulation.
+
+[9] R. Thapa et al., “Agentic AI-enabled Discovery across Large-Scale Sleep Physiology,” arXiv, Jul. 2026, doi: 10.48550/arXiv.2607.25175.
+    https://matteo94s.github.io/publications/thapa-agentic-2026
+
+[8] M. Saibene, B. J. Godinho, and S. Puthusserypady, “Analysis of Heartbeat Evoked Potentials in Temporal Lobe Epilepsy,” in Proceedings of the 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) (IEEE EMBC), Jul. 2026.
+    https://matteo94s.github.io/publications/saibene-heartbeat-2026
+
+[7] B. Gabdrakhimov et al., “Decoding Depression: AI-EEG Integration for Efficient Depression Diagnosis,” in Proceedings of the 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) (IEEE EMBC), Jul. 2026.
+    https://matteo94s.github.io/publications/gabdrakhimov-decoding-2026
+
+[6] C. Uyanik, M. A. Khan, M. Saibene, and S. Puthusserypady, “Open-Architecture FES System with External Control Integration for Multimodal Stroke Rehabilitation,” in Proceedings of the 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) (IEEE EMBC), Jul. 2026.
+    https://matteo94s.github.io/publications/uyanik-fes-2026
+
+[5] M. Saibene, Y. Gu, M. Ballegaard, T. S. Andersen, J. E. Bardram, and S. Puthusserypady, “Translational Perspectives on Brain-Heart Interplay: From Methodologies to Clinical Applications,” Comput. Biol. Med., vol. 204, p. 111522, Mar. 2026, doi: 10.1016/j.compbiomed.2026.111522.
+    https://matteo94s.github.io/publications/saibene-translational-2026
+    Abstract: The nervous and cardiovascular systems are intricately interconnected in both healthy and diseased conditions. The field of Neurocardiology, which focuses on the complex interaction between the nervous and cardiovascular systems, has grown rapidly over the past years. In addition, growing evidence shows that alterations in Brain-Heart Interplay (BHI) may contribute to neurological and cardiovascular disorders. BHI has great potential as a valuable biomarker to detect autonomic dysfunction, and reveal the mechanisms underlying conditions including sleep-related autonomic disorders and neurodegenerative diseases. However, the physiological characterization of linear or non-linear brain-heart relationships remains unclear. This review presents a comprehensive analysis of the current methods used to characterize BHI across multiple domains, with an emphasis on Electroencephalogram (EEG), Electrocardiogram (ECG), or Photoplethysmogram (PPG). Such non-invasive modalities allow for long-term and time-varying assessment of cortical and autonomic activity. In this work, we review how BHI modulates across various physiological and pathological states and highlight key findings from recent studies. In addition, we review potential data-driven methods to examine complex BHI, including measures of synchronization, directionality, and information transfer. As a result, studying BHI using these strategies offers a new angle on the complex and dynamic interaction of cortical and autonomic processes. This provides an opportunity to understand the intricate interplay between brain and heart functions, and has the potential to advance diagnosis, monitoring, and therapeutic interventions in neurocardiac conditions.
+
+[4] E. Mutlu, M. Saibene, J. de Araujo, E. Ahrens, and S. Puthusserypady, “Clustering-Based Detection of Driver Drowsiness with Ear-EEG,” in Proc. 2026 14th International Conference on Brain-Computer Interface (BCI) (BCI), Feb. 2026, pp. 1–6, doi: 10.1109/BCI69045.2026.11435106.
+    https://matteo94s.github.io/publications/mutlu-clustering-based-2026
+    Abstract: Fatigue remains one of the leading factors in road accidents, necessitating effective solutions for driver drowsiness detection. This study explores the potential of in-ear electroencephalogram (EEG) combined with unsupervised learning to detect drowsiness during simulated driving. Data from 17 sessions involving 9 participants were analyzed using 8 spectral features, including novel composite metrics r1 and r2. Three clustering algorithms: K-means, Gaussian Mixture Models (GMM), and DBSCAN—were employed to classify cognitive states without labeled data. The K-means yielded the highest performance (Silhouette Score: 0.93), with r1 and r2 outperforming traditional band ratios in distinguishing alert and drowsy states. These results demonstrate that ear-EEG, combined with unsupervised clustering, offers a viable pathway toward real-time, label-free fatigue detection systems with potential for practical deployment
+
+[3] M. Saibene, M. A. Khan, C. Uyanik, and S. Puthusserypady, “Myoelectrically-Controlled Functional Electrical Stimulation System (Myo-FES) with Integrated Flex Sensor for Home-Based Stroke Rehabilitation and Functional Recovery Monitoring: A Proof-of-Concept Study,” in Proc. 2025 10th International Conference on Intelligent Informatics and Biomedical Sciences (ICIIBMS) (ICIIBMS), Dec. 2025, pp. 88–94, doi: 10.1109/ICIIBMS66230.2025.11316750.
+    https://matteo94s.github.io/publications/saibene-myoelectrically-controlled-2025
+    Abstract: Stroke is a leading cause of death worldwide and a major contributor to acquired disability. Survivors often endure motor impairments and cognitive deficits, significantly impacting their quality of life. Numerous technologies have been developed to help stroke survivors regain motor functions and perform Activities of Daily Living (ADLs). Out of these, Functional Electrical Stimulation (FES) has shown great promise as an effective neurorehabilitation treatment, assisting post-stroke patients in regaining functional mobility. In this work, we have developed a novel Myoelectrically Controlled FES (Myo-FES) system with closed-loop feedback for home-based upper-limb stroke rehabilitation. The Myo FES system integrates Electromyography (EMG) and flex sensor (FS) to deliver adaptive FES stimulation based on voluntary muscle activation while simultaneously tracking rehabilitation progress. A pilot study conducted on three subjects demonstrated the system’s functionality and highlighted its potential application for upperlimb stroke rehabilitation.
+
+[2] M. Saibene et al., “Brain-Heart Aging During Sleep Predicts Incident Stroke,” in Proc. 2025 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI) (IEEE BHI), Oct. 2025, pp. 1–7, doi: 10.1109/BHI67747.2025.11269528.
+    https://matteo94s.github.io/publications/saibene-brain-heart-2025
+    Abstract: Detecting stroke risk remains a major challenge in preventive medicine. In this work, we introduce a novel computational approach for modeling the effect of aging to identify patients at risk of stroke by analyzing the intricate relationship between brain and heart dynamics during sleep. We analyzed whole-night Polysomnography (PSG) data focusing on sleep stage transitions, to capture changes in cortical and autonomic functions. Using an attention-based model tuned for age estimation, we identify patients at risk of stroke. The model has been tested on 782 patients and a systematic ablation study was performed to evaluate predictive performance across different signal modality configurations and sleep stages.Results from this study indicate that the patients at risk of stroke show pronounced aging effects, suggesting that Brain-Heart Interaction (BHI) during sleep may be applied on a population level as a novel biomarker to identify patients at risk of stroke.
+
+[1] M. A. Khan, M. Saibene, R. Das, I. Brunner, and S. Puthusserypady, “Emergence of flexible technology in developing advanced systems for post-stroke rehabilitation: a comprehensive review,” J. Neural Eng., vol. 18, no. 6, p. 061003, Dec. 2021, doi: 10.1088/1741-2552/ac36aa.
+    https://matteo94s.github.io/publications/khan-2021
+    Abstract: Objective. Stroke is one of the most common neural disorders, which causes physical disabilities and motor impairments among its survivors. Several technologies have been developed for providing stroke rehabilitation and to assist the survivors in performing their daily life activities. Currently, the use of flexible technology (FT) for stroke rehabilitation systems is on a rise that allows the development of more compact and lightweight wearable systems, which stroke survivors can easily use for long-term activities. Approach. For stroke applications, FT mainly includes the ‘flexible/stretchable electronics’, ‘e-textile (electronic textile)’ and ‘soft robotics’. Thus, a thorough literature review has been performed to report the practical implementation of FT for post-stroke application. Main results. In this review, the highlights of the advancement of FT in stroke rehabilitation systems are dealt with. Such systems mainly involve the ‘biosignal acquisition unit’, ‘rehabilitation devices’ and ‘assistive systems’. In terms of biosignals acquisition, electroencephalography and electromyography are comprehensively described. For rehabilitation/assistive systems, the application of functional electrical stimulation and robotics units (exoskeleton, orthosis, etc) have been explained. Significance. This is the first review article that compiles the different studies regarding FT based post-stroke systems. Furthermore, the technological advantages, limitations, and possible future implications are also discussed to help improve and advance the flexible systems for the betterment of the stroke community.
+
+## Blog posts
+
+- Before You Start: A Quick Guide to Your MSc Thesis or Special Course (2026-10-19): A practical onboarding guide for DTU students starting an MSc thesis or special course, covering project registration, research proposals, literature reviews, resources, meetings, and final report expectations. https://matteo94s.github.io/blog/before-you-start-msc-thesis-special-course
+
+## Usage
+
+Training: Use of this website's content for training, fine-tuning, evaluating, or improving language models is not permitted without prior written permission.
+Retrieval: Search and retrieval use is welcome when crawlers respect robots.txt and do not overload the server.
+Citation: Short quotations are welcome when linked to the original page.
+Attribution: Please name Matteo Saibene and link to the original source. For publications, link to the DOI.
+
+Policy page: https://matteo94s.github.io/ai-policy

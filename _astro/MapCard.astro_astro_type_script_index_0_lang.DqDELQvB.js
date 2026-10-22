@@ -1,0 +1,1 @@
+document.querySelectorAll(`[data-map-load]`).forEach(e=>{e.addEventListener(`click`,()=>{let t=e.closest(`[data-map-stage]`);if(!t||!e.dataset.src)return;let n=document.createElement(`iframe`);n.src=e.dataset.src,n.title=`Map showing the office location`,n.loading=`lazy`,n.referrerPolicy=`no-referrer`,n.allowFullscreen=!0,t.replaceChildren(n)})});
